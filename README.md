@@ -1,0 +1,1 @@
+A simple beginner-friendly project where you design a stylish cafe menu webpage using HTML and CSS. This project helps you learn how CSS controls the layout, colors, fonts, and spacing of HTML elements while building a clean, responsive menu interface.
